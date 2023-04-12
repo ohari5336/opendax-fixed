@@ -19,3 +19,14 @@ vendor/
 *.tfvars
 terraform.tfstate*
 !data/parity/.gitkeep
+compose/
+config/bitcoin.conf
+config/litecoin.conf
+config/mailer.yml
+config/arke/
+config/barong/
+config/vault/
+config/peatio/abilities.yml
+config/gateway/envoy.yaml
+config/vault-secrets.yml
+.env
